@@ -2,7 +2,7 @@
 
 CRUD basado en arquitectura MEAN
 
-Mongo DB
-Express.js
-Angular 7
-Node.js
+Mongo DB <br/>
+Express.js <br/>
+Angular 7 <br/>
+Node.js <br/>
